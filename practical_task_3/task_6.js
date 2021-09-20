@@ -8,6 +8,7 @@ xx
 xxx
 xxxx
 xxxxx
+
  */
 
 for (let s = 'x'; s.length <= 20; s += 'x') {
