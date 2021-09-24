@@ -10,6 +10,7 @@ make25PercentDiscount не должен быть внутри функции-к�
  */
 
 // ES 5
+
 function Product(name, price) {
     this.name = name;
     this.price = price;
