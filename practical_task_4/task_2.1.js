@@ -13,6 +13,7 @@ highlighted значение true.
  */
 
 // ES 5
+
 function Post(author, text, date) {
     this.author = author;
     this.text = text;

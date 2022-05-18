@@ -10,6 +10,7 @@ make25PercentDiscount не должен быть внутри функции-к�
  */
 
 // ES 6
+
 class Product {
     constructor(name, price) {
         this.name = name;

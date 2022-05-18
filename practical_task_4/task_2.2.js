@@ -13,6 +13,7 @@ highlighted значение true.
  */
 
 // ES 6
+
 class Post {
     constructor(author, text, date) {
         this.author = author;
