@@ -33,7 +33,6 @@ let last_number = cash.charAt(cash.length - 1);
 let penultimate = cash.charAt(cash.length - 2);
 let word_case = null;
 
-
 if (penultimate === '1') {
     word_case = 'рублей';
 } else {
